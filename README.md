@@ -29,7 +29,10 @@ This project was completed as part of the **SkillCraft Technology Data Analytics
 ## Files Included
 
 * SuperStore_Sales_Dashboard
-* Project Screenshots
+* sales_analysis
+* profit
+* time_and_trend_analysis
+* Project Screenshot
 
 ## Skills Gained
 
