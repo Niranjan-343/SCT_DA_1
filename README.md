@@ -41,4 +41,5 @@ This project was completed as part of the **SkillCraft Technology Data Analytics
 ## Author
 
 **Niranjan**
+
 Data Analytics Intern – SkillCraft Technology
